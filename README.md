@@ -1,7 +1,6 @@
 # zoom_clone
-Gmail Clone using React/Redux with Material-UI.
+Zoom Clone using Node Js. 
 
-Database and Hosted using Firebase and intergrated Login using Google. 
 
 ## Installation
 ```bash
